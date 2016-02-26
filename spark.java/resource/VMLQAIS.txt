@@ -1,0 +1,41 @@
+The Java Back End Developer is responsible for the technical architecture and solution logic that the end user engages with. He/she works closely with Project Managers to design the appropriate solution for the Project and finds the most effective and engaging method of implementation. He/She also works hand-in-hand with the Front End Development team to ensure the overall technical success of the solution.
+
+Additionally, the Back End Developer is an in-house consultant where he will share his views on the feasibility of campaign ideas and designs. He/she is also expected to keep up to date with the latest in web, mobile and interaction technologies.
+
+Key Responsibilities
+
+ 
+
+ 
+
+Candidate should possess at least a diploma
+At least 2 years in the field of Software Development in a digital agency or comparable organization
+At least 5 years development experience with up to date skills in Core Java and JEE API.
+Good understanding of software development lifecycles and methodologies
+Moderate understanding in Front-End technologies (HTML/JS/CSS)
+Familiarity with source code control systems (E.g. SVN, GIT)
+Familiarity with task tracking systems (E.g. Jira, Redmine)
+Good understanding of quality processes and standards
+Good communication skills including ability to influence and communicate to internal teams
+10. Team player and strong independent contributor
+
+11. Able to manage multiple projects concurrently
+
+12. Preferred basic understanding of mobile technologies.
+
+13. Strong experience in modern Web/Mobile development techniques, including:
+
+Development on MVC Frameworks  (Spring, Struts)
+Development on JAVA-based CMS (Adobe CQ CMS)
+Database design, management and manipulation
+Development on SOA Frameworks (SOAP, Restful)
+Build management using Ant or Maven2
+Unit Testing and the use of code coverage metrics
+ 
+
+About this companyFollowing company
+VML Qais is a Singapore-based interactive agency who produce groundbreaking work and fresh ideas for major global brands throughout Asia Pacific and beyond.
+
+We design and build websites, interactive campaigns and marketing strategies. VML Qais was born from a desire to do interactive the right way. With a dedicated user experience practice, a creative team with incredible flair and energy, a seasoned research group and a cutting-edge media team, we're structured to produce online experiences that really connect with the target audience.
+
+We’re nothing if not passionate about what we do. And at the center of that is a culture that celebrates our diversity and brings together thinkers from all over the world. But that doesn’t mean we don’t have fun. From Show-And-Tell Fridays to our anniversary bash, VML Qais encourages a balance of good times and excellent work.

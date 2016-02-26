@@ -1,0 +1,25 @@
+honestbee is the first concierge grocery delivery service for all your household and grocery needs in Asia. We deliver to your doorstep on the same day, within the next hour. Simply choose from the widest online product selection and place your order in a few simple clicks. Our trained shoppers will then handpick your groceries for you, from the same grocery stores and brands that you trust and love.
+
+Social Mission: honestbee’s social mission is to create sustainable job opportunities for all individuals who are looking for more flexible working hours. Our goal is to provide extensive skill upgrading and training and to create employment opportunities for everyone in our communities.
+
+honestbee has raised US$15 million in a series A round led by Silicon Valley investment firm Formation 8. The round was also joined by Pejman Mar Ventures - early investors of Dropbox, Lending Club and Doordash, Gideon Yu - former CFO of Facebook and Youtube, Owen T. Van Natta - founding team of Amazon’s search company A9.com and former COO of Facebook, Steve Chen - Google Ventures Advisor, as well as co-founder and former CTO of YouTube.
+
+
+Job Requirements
+
+Have experience working with the full web stack and how it works (from server to database to the web browser).
+Familiarity with TDD and BDD concepts and how to use them to write bug-less code. If not, be willing to invest time to learn.
+Familiarity with Node.js is a plus.
+Job Responsibilities
+
+We are looking for engineers who write beautiful, elegant code that is well tested and works. It’ll be awesome if you already do Ruby on Rails development but we also welcome engineers who work with other web frameworks and are keen to learn Ruby on Rails.
+
+We’re looking for people who love finding solutions. There are a variety of engineering challenges to solve at honestbee - such as building features to drive user growth, implementing data solutions or developing a process engine to manage our logistical backend. Are you ready?
+
+ 
+
+We believe the right attitude is just as important as the right skills. Here's what we look for in our future team mates:
+
+You enjoy working in a start-up and open environment.
+You have a good sense of humour and like fun. Can you take a joke?
+You keep up to the latest tech trends and best practices

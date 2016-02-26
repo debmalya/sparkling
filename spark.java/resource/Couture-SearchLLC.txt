@@ -1,0 +1,23 @@
+Our client is a fast paced start-up developing a personalization platform for mobile apps. As a data / software engineer you will build major building blocks of the platform, and in particular the Real Time data pipelines to collect, aggregate and process information. You will also build analytics tools and data visualization, help scale the platform, build Service for Realtime API, and lead the development of significant components.
+
+The technology stack includes Spark, Hive, Scala, Spray, Lucene, AWS.
+
+We are looking for Senior Software Engineers (4+ years engineering experience) with good Computer Science background and a minimum of 2+ years experience with large scale data processing and noSQL technologies specifically.
+
+We have similar positions for other clients in the Bay Area.
+
+Desired Skills and Experience
+ 
+
+Bachelors or Masters degree in Computer Science, or related field.
+Expert in OOD and data structures
+Expert with one or more programming languages such as Java, Scala, Python
+2+ years of working with Hadoop/YARN/Mesos and building applications end-to-end
+2+ years experience with large scale data analysis
+Able to deliver quality code on tight schedule in weekly sprints
+Good team-player with inter-personal communications skills
+Nice to have:
+
+Experience with Apache Spark, Kafka, Elasticsearch
+Experience with networking and infrastructure automation (e.g. Chef, Puppet, Bash)
+Experience with distributed systems and map-reduce architectures

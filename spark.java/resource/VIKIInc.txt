@@ -1,0 +1,21 @@
+Senior Full Stack Engineer at Viki Inc in Singapore, Singapore
+
+Viki, a Rakuten Company (Japan Stock Exchange: 4755), is a global TV site with more than 40 million viewers a month watching the world’s primetime TV and movies, subtitled in over 200 languages by a community of fans. With billions of videos viewed and more than 900 million words translated, Viki brings global entertainment to fans everywhere.
+
+Reporting to the Engineering Manager, we are in search of a Senior Full Stack Engineer who can work in a fast-paced, professional environment. We’re responsible for a variety of systems. Our API is built using variety of technologies such as Go, Node, Redis, Ruby, RabbitMq and PostgreSql. We are scaling and adding a number of interesting features such as search, social and advanced push notifications. We manage our own deployments (think Docker, Scout, Logstash and StatsD) and are responsible for end-to-end delivery of the components. Essential duties and responsibilities may include, but are not limited to:
+
+. Write complex JavaScript application using Ember.js
+. Write APIs using Ruby
+. Focus on code quality and testability
+. Improve application performance
+. Continually improve technical processes to get us operating more efficiently
+. Agile and Data Driven mindset
+Qualifications
+
+B.S., M.S. or Ph.D. in Computer Science or a related field
+Proficient in JavaScript
+Experience with any of the following: Ember.js, Backbone.js or AngularJS
+Ruby on Rails is preferred, but know that any smart, experienced coder is going to be able to pick up Ruby on Rails quickly
+Familiarity with Nginx, PostgreSQL, Redis, RabbitMQ and/or Unicon
+Experience building complex enterprise systems
+We’re small but diverse, with more than 25 nationalities and 40 languages represented among our 100+ employees. Come break down barriers that stand between great entertainment and its fans everywhere and help us make a difference as we grow.

@@ -1,0 +1,39 @@
+Responsibilities
+
+Work with the rest of the team to develop the web app
+Come up with concepts for new features
+Communicate effectively with the backend team to come up with APIs and sync data across platforms
+Minimum Requirements
+
+Extensive experience programming in JavaScript, CSS, HTML.
+Experience developing/designing Web UI.
+Preferred Qualifications
+
+Experience developing/designing large software systems.
+Understanding web platforms
+A solid foundation in computer science.
+Experience with AngularJS framework
+jQuery Ninja
+Experience with web tools like Grunt, Bower, Yeoman, etc.
+Experience with data visualisation (experience with highcharts or D3JS is a plus)
+Good knowledge of RESTful web services
+Good knowledge and prolific user of Linux and Git
+Great communication/documentation skills
+Soft skills: eager to learn, independent, meticulous, team player
+Perks
+
+Employees are showered with coffee credits each month.
+Gym memberships are reimbursed.
+Ground floor opportunity with the team shape the strategic direction of the company.
+The rare opportunity to change the world such that everyone around you is using the product you built. We're not just another social web app, we're helping real people and reinventing healthcare globally.
+Sharp, motivated co-workers in a fun office environment.
+Bottom Line
+
+You have to be ready to hustle! We move super fast. We work at ambitious scale. We take serious risks.
+Done is better than perfect, and continual iteration is important.
+You must be ready and excited to learn on your feet and help build next generation global healthcare company.
+About this companyFollowing company
+Holmusk is an innovative telehealth platform that uses data (analytics, visualization, prediction, signaling etc.) to tackle chronic diseases and influence positive health outcomes.
+
+We bring cutting-edge ideas from Big Data, Behavioural Science & Consumer Technology and put them in the hands of patients (and doctors) to improve adherence and health habits. Current medical treatment is dependent 
+primarily on qualitative and static data. Using dynamic data, the purpose of this platform is to tackle chronic diseases by bringing transparency, analytics and predictability.

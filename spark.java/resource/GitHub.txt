@@ -1,0 +1,26 @@
+Software Engineer - Junior
+[m]pirik is changing healthcare and we want you to help build our software.
+
+We’re looking for a junior engineer to join and grow with our team to help build software and tools that healthcare professionals will love to use. We’re committed to transparency, collaboration, experimentation and creating fun with everything we do.
+
+Our main tools that we use to build software are node.js and MongoDB (Linux), Swift v2 (iOS), and Electron (Windows).
+
+Responsibilities ● Work with product owners to develop new features and services ● Write clear, concise, well structured code with applicable documentation ● Participate in code reviews and knowledge sharing activities ● Working with support to triage and debug technical support requests
+
+Skills & Requirements To be successful in this role, you will need: ● A thirst to learn new things and a curiosity of how things work ● To be self-driven and goal oriented ● A willingness to develop on multiple platforms and languages ● Knowledge of testing, profiling, and debugging principles and practices ● Ability to solve problems when the solutions are not readily apparent ● Experience with HTML and CSS development ● Experience in one or more of the following languages: JavaScript, C#, Objective-C, and Swift ● BS, MS and/or PhD degree in computer science or a related technical field
+
+Bonus if you have: ● Experience on multiple platforms such as Mac, Windows, and Linux ● Experience with a framework like Handlebars, RxJS, or React ● Familiarity with object oriented and functional programming conventions ● NoSql database experience ● Mobile or responsive development experience ● Familiarity with Bootstrap, Git, and GitHub
+
+About [m]pirik
+
+Company overview
+
+[m]pirik is a healthcare startup located in Milwaukee, WI. Our founder and CEO is a practicing orthopedic surgeon with a mission of improving healthcare. With his unique vision and our passionate team, we are measuring and improving value in orthopedics. Our software is comprised of a web based SaaS platform with ancillary products that measure and collect additional insights.
+
+About the team Through a flat organizational structure, the team is comprised of a group of self motivated individuals. Work-life balance is important to us, which is why we offer flexible work schedules and generous PTO. Full time employees are offered ownership opportunities, health insurance and 401k planning. Together, we’ve built and are growing a place where we truly love working and think you will too.
+
+Our company values include: ● Champion making healthcare better ● Be adventurous, creative, and open-minded ● Pursue growth and learning ● Create fun with everything we do ● Do more with less ● Be humble
+
+We have a lot of exciting things to do, and we’re looking for the right people to grow with us!
+
+About our development process We are believers in quick iteration. We launch features, betas, and prototypes as early as we can so that we can learn early from the people who actually use our products. Developers work with product owners and customers to continually improve our products. We use a kanban methodology for feature development and leverage tools from Trello and GitHub to accomplish success. We have quarterly hackathon events where everyone in the organization is encouraged to explore ideas outside of their standard scope.

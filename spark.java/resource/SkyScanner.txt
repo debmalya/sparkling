@@ -1,0 +1,41 @@
+Skyscanner obtains data from multiple web scrapers, API feeds and external data sources to power its front end website. Working as part of an energetic and intelligent team of developers helps ensure these web scrapers and data sources are reliably providing accurate data and users are linked to 3rd party sites.
+
+Additionally the team is responsible for the logging platform which tracks revenue, spend and users activities. As the primary technical point of contact for an important part of our systems, the Partner Engineering team pride themselves on understanding and successfully delivering the business requirements of all departments. 
+
+ 
+
+Core Responsibilities:
+
+The core of the work is in Python, although we welcome programmers from other backgrounds to apply.
+Ensuring that flight prices on the Skyscanner site are accurate and up-to-date.
+Creating seamless redirects to third party websites.
+Assisting with the maintenance of existing scrapers and data sources.
+Increasing our global coverage of flight and price data.
+Liaising with 3rd parties over new integrations and price consistency.
+Working with test team to validate/verify quality of solutions.
+Enhancing our Python web scraping platform with new features
+Desired Skills and Experience
+Qualifications
+
+Educated to Degree level in a relevant subject (e.g. Computer Science, Software Engineering or Informatics) or equivalent relevant demonstrable experience
+Skills & Experience Required
+
+Passionate technologist and developer.
+Strong desire to learn new techniques, technologies and advance your skillset.
+Knowledge of how websites work (from initial HTTP request to DOM parsing).
+Good flexibility, independence and self-organisation to prioritise task(s) and jump between multiple jobs and requests.
+Ability to communicate with both technical and non-technical people.
+Engineer who applies development best practices to ensure quality of solutions.
+Programming Languages
+
+Ideally: Scripting Language (Python, Ruby, Perl)
+Beneficial: Advanced Python & other Languages
+Understanding of Web Applications & Technologies:
+Ideally: HTML, JavaScript and CSS
+Beneficial: DOM (XPath/SAX), Regular Expressions and AJAX
+Knowledge of Web Scraping / Crawling
+Ideally: Written own web scraper/crawler
+Language(s)
+
+Fluent English and any other Asian languages
+ 

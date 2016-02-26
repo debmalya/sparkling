@@ -1,0 +1,37 @@
+We are the front line of Palantir's business. Behind us stand some of the best developers, designers and data scientists in the world. Before us lie the most technically complex, societally important, and morally challenging problems of the twenty-first century. Our job is to find the right problems to solve, find the right ways to solve them, and turn those solutions into reality.
+
+We are engineers and implementers, erstwhile web developers, analysts and lawyers; and the world's most important, most trusted organizations come to us for help. Our job is to deliver.
+
+What We Value
+
+FDSEs are developers with a passion for using technology to achieve a larger goal. They enjoy the challenge of solving an abstract problem and building or adopting the technology to do it. To support these goals, we value:
+
+.  Collaboration: We work with our customers, often on site, to understand and solve their problems.
+.  Commitment: We see projects through from beginning to end in spite of obstacles we may encounter.
+.  Balance: We do whatever is necessary to finish the job and trust one another to take the time we need, whether it's vacation or just a trip to the gym.
+.  Communication: We communicate complex technical concepts to both technical and non-technical audiences.
+.  Improvement: We push ourselves to grow and develop in new ways.
+.  Impact:We take on meaningful and challenging projects that change the world for the better.
+.  We are filling positions in Palo Alto, New York, London, Tokyo, Singapore, and Sydney. Expected travel for the role varies by location.
+
+JOB RESPONSIBILITIES
+
+ 
+
+Forward Deployed Software Engineers (FDSEs) are responsible for the technical success of each of our deployments. They are full-stack developers who work side by side with our customers to lead technical implementation of our products. FDSEs understand our customers’ greatest pain points and design end-to-end solutions to address them. FDSEs solicit constant feedback on their work from both customers and colleagues, improving our products over time with rapid iteration cycles.
+
+FDSEs deploy cutting-edge technologies to solve our customers’ hardest problems. Projects often start with a nebulous question like “Why are we losing customers?” or “How can we more effectively identify instances of money laundering?” FDSEs are thought leaders and first movers in developing a solution, from high-level system design and prototyping to application development and data integration.
+
+FDSEs work with customers around the world, where they gain unique insight into the world’s most important industries and institutions. We help our customers detect insider trading, improve disaster relief, fight healthcare fraud, and more. Each mission presents different challenges, from the regulatory environment to the nature of the data to the user population. FSDEs work to accommodate all aspects of an environment to drive real outcomes for our customers.
+
+ 
+
+Technologies We Use
+
+Our approach is to deploy whatever technology is best to solve the problem at hand. This often means that we are learning from the bleeding edge of the open source community or developing our own tools. Recently, FDSEs have deployed:
+
+Postgres, Cassandra, Hadoop, and Spark for distributed data storage
+Java and Groovy for our back-end applications and data integration tools
+Typescript, AngularJS, jQuery, Backbone, Underscore, Leaflet, and d3 for our web technologies
+Python for data science and machine learning
+Internal frameworks for our rapid iteration tools

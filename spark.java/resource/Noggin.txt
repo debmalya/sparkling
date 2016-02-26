@@ -1,0 +1,60 @@
+ARE YOU GOOD ENOUGH? LOOKING FOR AN EXCITING & REWARDING CHALLENGE IN INFOSEC & PRIVACY SOFTWARE ENGINEERING. WANT TO BE PART OF GAME CHANGER. IF SO, APPLY TO NOGGIN.
+
+ 
+
+The suitable candidate is required to perform the following tasks in supporting of the development and maintenance of a major Cloud-based software system:
+
+Assist in design, development, and testing of security and privacy mechanisms, which may include authentication, encryption/decryption, message integrity, security protocol components, and data privacy enabling/enhancing solutions
+Perform threat modeling with application development teams
+Plan and perform software code review and security testing to identify software security bugs/vulnerabilities
+Provide security software maintenance support (bug fixes, updates)
+Cloud platform -  preferably Amazon Web Services
+Is a self starter, is strong and willing in acquiring new technical skills
+Knowledge/Experience
+
+Proficiency in at least one of the following programming languages & environment:
+Play on Scala - Play framework 2, Akka, Scala, Typesafe Activator or SBT
+Java - J2EE,  Servlet, Maven/Gradle
+Proficiency in Web applications development in one of the following web platforms - jQuery/Javascript, Ajax, JSON/JSONP, AngularJS, LESS/CSS (gulp-less compiler), Semantic-UI, Bootstrap and Foundation, Responsive Web, HTML5, CSS, REST, JSON/XML, Reactive Applications, Microarchitecture, Mobile Apps development experience on either iOS or Android platform.
+Familiar with development in Linux, and Windows operating systems environment is a plus.
+Ability to read and write UML a plus.
+Knowledge and understanding of cryptographic algorithms and security protocol implementation.
+Knowledge and experience in conducting software threat modeling, code review and security testing.
+ 
+
+Qualification
+
+Ability to read/write and communicate in English. Other language capabilities a plus.
+We will evaluate candidates with or without actual work experiences. Graduates from ITE, Polytechnics, and Universities with the above required knowledge and experience, as well as candidates without formal educational qualification but with the above knowledge and experience may also apply.
+ 
+
+How to apply
+
+To apply, please email your updated resume (with a recent photo preferred) to: laichwang@nogginasia.com. Please include your contact number and email address in your application. 
+
+About this company
+Noggin is a personal data company. As a technology innovator and enabler for permissible personal data. Noggin’s revolutionizing technology will enable secured and private:
+
+Trade of personal data by individuals (consumers or professionals) to corporate enterprises for marketing purposes, and innovators and makers for research and development purposes
+Relevant marketing one-to-one to consumers and professionals
+Benchmarking and analyses insights for improvement of self and society at large 
+Through Noggin’s technology, individuals can collect, collate and permit use of their personal data anonymously thereby answering 3 primary inhibitors of meaningful use/sharing of one’s personal data:
+
+How can I own and monetize my own personal data versus someone else owning and monetizing my personal data?
+How can I share my personal data necessary for the betterment of products, services and society at large without compromising my privacy and security?
+How can I receive information or messages relevant and tailored to me securely, privately and un-intrusively?
+
+Hi Debmalya,
+
+Thanks for your interest.
+
+Are you available to have a chat next Thu afternoon say 11.30am?
+
+My office is at Blk 71 #03-11 Ayer Rajah Crescent.
+
+And in the meantime, do check out this research project site HAT (hubofallthings.org) of which is the idea behind Noggin as a personal data company?
+
+Thx
+
+Best Regards
+Lai Chwang

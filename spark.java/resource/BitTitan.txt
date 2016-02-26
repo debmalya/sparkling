@@ -1,0 +1,44 @@
+  Development  Singapore  Base plus bonus  Salary  Full Time
+ Medical, dental, vision, unlimited PTO, stock options and FUN!
+
+ About us:  BitTitan is a well-funded startup of creative and passionate individuals based in Kirkland, WA. We believe in creativity, collaboration, and the old adage of "getting sh#t done and have fun doing it." 
+
+ What we do:  We are the cloud service enablement leaders. Our MSPComplete platform houses multiple services that work in tandem to eliminate roadblocks faced by businesses transitioning to the cloud. Our scalability enables us to help every business – from small, private companies to the Fortune 500.
+
+ Why you should work here:  BitTitan doubled in size in 2015, and we're going to do it again in 2016. Working here means you're not afraid to take risks, be creative, and blow people's minds with how awesome you are – both as a person and an employee. We're a lot of things at BitTitan, but one thing we've never been accused of is being boring. And that's good, because working here means you'll never be bored (trust us)!
+
+We are currently seeking a Senior / Software Developer for our Singapore office.
+
+
+Senior / Software Developer
+
+Responsibilities:
+
+Design scalable code able to process large volumes of data
+Promote designs that ensure code consistency and reuse
+Work with sales and marketing to prioritize features and deliver on schedule
+Improve code quality via testing and instrumentation code
+Participate in and lead code reviews
+Skills & Experience Requirement:
+
+3 to 5 years of relevant experience
+Bachelor/Master degree in science or engineering preferred
+Strong software design aptitude
+Business Intelligence, Encryption or Analytical skills preferred
+Deep troubleshooting skills (ex: packet sniffing, debugging, etc.)
+Ability to work at all levels of the stack (database, back-end, front-end)
+Familiarity with DNS, email systems, etc.
+Experience with strongly typed object-oriented programming (C#, Java)
+Working with technologies across the Microsoft stack including ASP.NET MVC, LINQ and SQL Server
+Solid written communication skills
+Energetic personality and be self-Driven
+
+Ideal:
+
+Experience working in a start-up environment preferred
+Email technology expertise (ex: email routing, email migration, anti-spam, etc.)
+Track record of shipping scalable, efficient code
+Knowledge of advanced algorithms and techniques (ex: code profiling)
+ 
+
+BitTitan is an Equal Opportunity Employer

@@ -1,0 +1,89 @@
+Description
+ 
+Senior Software Engineer
+
+As a global leader in 3D design, engineering, and entertainment software, Autodesk helps people imagine, design, and create a better world. Autodesk accelerates better design through an unparalleled depth of experience and a broad portfolio of software to give customers the power to solve their design, business, and environmental challenges. In addition to designers, architects, engineers, and media and entertainment professionals, Autodesk helps students, educators, and casual creators unlock their creative ideas through user-friendly applications.
+
+
+
+Position Summary:
+
+Autodesk is seeking a Senior Software Engineer to join our Autodesk Delivery Platforms team. The position will entail to provide technical leadership in designing and implementing software delivery framework and applications used by multiple Autodesk products. The ideal candidate should have strong experience in both development and testing of connected desktop applications. Communication skills will be of high importance as the engineer will need to communicate and collaborate closely with other members of an international cross-functional team to ensure all required functionalities are correctly implemented in the delivery framework, applications and tools.
+
+
+
+The engineer will work with product development teams to ensure the framework are designed and implemented with high scalability, extensible and reliable. Candidate must have a deep, high-technology background with hands-on, working experience in large scale software development. Candidate with software delivery experience is a BIG plus.
+
+
+
+Responsibilities:
+
+• Develop high quality, stable Delivery Framework/Applications for use in products.
+
+• Document new or code changes and features developed. Write and present code design specifications.
+
+• Validate and explain features for QA to finalize test cases.
+
+• Participate in peer code reviews to ensure proper documentation on features and interoperability within the entire system.
+
+• Maintain, troubleshoot and debug code, as required. Participate in developing test plans, including regression tests for newly developed software or feature.
+
+• Write and maintain unit test code and automatic tests.
+
+• Develop industry specific documents and diagrams to outline architecture and relationships between subsystems and participates in reviewing these designs.
+
+• Research and analyze existing legacy architecture and software code to understand the code, for making enhancements or resolving defects and performance issues.
+
+• Participate in multi-disciplinary Scrum team in planning and review meetings with Product Owner.
+
+• Mentor and provide direction to junior software engineers regarding company development processes and software architecture.
+
+• Research external best practices and emerging technologies for possible incorporation into company products and methodologies.
+
+
+
+Experience Required:
+
+• BS or MS in Computer Science or related field
+
+• 8+ years of strong C++ programming and STL
+
+• 5+ years of work experience in large scale software development
+
+• Deep working knowledge of software architecture and design methodologies
+
+• Experience developing software using C++ on Windows, Linux and Mac
+
+• Experience with Cloud and Mobile technologies including REST, HTML5, Web Services
+
+• Experience with Java, ReactJS, CEF and Qt framework
+
+• Experience with Windows System Internals; Registry, File System, Shell, Permissions, Networking, User Profiles, Windows Servers and UAC
+
+• Experience with Source Code Control systems like Perforce and Git
+
+• Experience working with highly motivated Agile teams
+
+• Experience with deployment/provisioning using SCCM, PowerShell or similar tools is a plus
+
+• Experience with virtualization systems like ESX, VMWare, Citrix is a plus
+
+• Experience with Windows, Mac or Linux software installation/deployment is a plus
+
+• Familiar with OpenSSL technology and cryptography is a plus
+
+• Experience in secure coding and static code analysis tools is a plus
+
+• Experience working with remote and international team members is a plus
+
+Qualitative Skills:
+
+• Strong customer focuses and show flexibility under changing conditions.
+
+• Ability to coalesce and collaborate with remote teams
+
+• Pragmatic and results oriented.
+
+• Excellent verbal and written communication skills.
+
+• Self-directed technical leader, willingness to take initiative and committed to deliver on time.

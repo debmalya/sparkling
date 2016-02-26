@@ -1,0 +1,62 @@
+Entry Level / Junior Developers
+
+Involvement in user requirements gathering. Coding, testing and maintenance of new and existing projects. Opportunity to be exposed to a myriad of established and new technologies. 
+
+Degree / Diploma in Computer Science, IT or equivalent (Fresh graduates are welcome)
+
+Development experience in Java/JEE or C#/ASP.Net
+
+Knowledge in database fundamentals
+
+Possess good work attitude and enthusiasm
+
+Able to work independently
+
+All applicants must be educated OR have working experience in Singapore for at least 1 year
+
+Open to Singaporean, PRs 
+
+Senior Developers
+
+Engage users in their requirements. Lead team in performing coding & testing of program modules according to design specification. Documentation of functional and technical specifications. As part of quality improvement process, you will analyze & resolve reported problems to ensure business continuity of customers. Maintain & tune applications (when required) for service level compliance
+
+In addition to the requirements for Junior / Entry Level position;
+
+Experience in going through full software development life cycle
+
+Good interpersonal and communication skills
+
+Java
+
+At least 1 year of working experience in application development and support in Java/J2EE technology
+
+Working knowledge of JEE, JSP, Struts, Hibernate or Spring framework
+
+Working knowledge of web servers such as Apache HTTP Server or IIS
+
+Working knowledge of application servers/containers such as Tomcat, Weblogic, Websphere
+
+Working knowledge in various RDBMS like Oracle, MS SQL Server and MySQL
+
+.NET
+
+At least 1 year of working experience in application development and support in C# and ASP.Net
+
+Working knowledge of IIS and MS SQL Server
+
+Experience in one or more of the following is a plus:
+
+Microsoft Sharepoint Server
+
+Active Directory
+
+Window Server 2008/2012
+
+About this companyFollowing company
+Established in Year 2000, WizVision is an established Information Communications Technologies (ICT) System provider based in Singapore.
+
+Its core capabilities lie in its design, development as well as maintenance of turnkey enterprise class software applications for both the public as well as the private sector.
+
+Wizvision has strong domain knowledge in transactional based applications such as e-payment and billing systems.
+
+Our clients include international banks, leading payment processors, large enterprises and government agencies.

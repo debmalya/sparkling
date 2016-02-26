@@ -1,0 +1,29 @@
+We are looking for a Senior Java software engineer to join us, reporting directly to our hands-on CTO who still writes and reviews the core code himself with a big smile and passion, like in the good old days at IBM.
+
+
+At Healint, we believe that good engineers are passionate about learning new technologies and don’t like being stuck in a specific area like Backend or Frontend forever.
+
+This passion for change is not only derived by personality but also by the willingness to continuously learn and develop new skills. Thus, as we build our core engineering team, we look for experienced people who are fast learners, brave souls to try new technologies, detail-oriented, and design purists.
+
+You will be joining an awesome team of bright engineers who have built a great platform is powering our first mobile app "Migraine Buddy" which has the highest user satisfaction of its peers in both Android Play Store and Apple App Store. Go check it out yourself ;)
+
+Desired Skills and Experience
+
+5 years of experience with Java based technologies A mixture of Backend/Frontend/Android experience is preferred 
+Excellent understanding of Software Engineering principles and design 
+Experience with Agile development processes and test-driven development 
+Experience with distributed source control. Experience with Git is preferred 
+Good command of English 
+Singapore citizen or permanent residents are preferred but not required
+ 
+
+About this companyFollowing company
+Healint is a startup backed by the DFJ network (SpaceX, Tesla, Skype, and many more) our mission is to bring wild innovation into the more controlled world of healthcare.
+
+ 
+
+We are already following more than 10.000 patients with complex neurologic disorders, especially Neuropathic pain, and will follow millions in 2016. The carefully selected Peta-bytes of data is here to improve our algorithms and support global health research.
+
+ 
+Healint is a young startup with an international team with 8 nationalities and 18 languages spoken fluently. Healint is about data and passion, even our CFO is coding in Python nearly everyday and having fun on Kaggle… be ready for a great learning environment.
+

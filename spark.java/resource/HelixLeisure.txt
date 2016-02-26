@@ -1,0 +1,27 @@
+Senior Big Data Developer (Java)
+We are looking for a Senior Big Data Developer to join our team in Singapore. This role will take an important role in architecture and implementation of a cloud-based Big Data solution running on Amazon Web Services which empowers Helix’s customers with accessible and actionable business and user data.
+
+This position will be based at our Singapore office. The Ideal candidate will be an established professional with a passion for online technologies and out-of-home entertainment and brings strong knowledge about Apache Hadoop framework.
+
+Key Responsibilities
+
+. Participate in the architecture of a Big Data solution which connects Helix’s many physical locations with a cloud interface/data warehouse.
+. Play a key role in architecting and evolve the Big Data solution for Helix.
+. Implement business analytic requirements on top of Hadoop with the usage of JCascalog
+. Develop a real time analytics solution on top of Apache Storm
+. Be a positive and active contributor to the team’s methodology and continuous improvement programs.
+ 
+
+Skills & Experience
+
+At least 8 total years of professional software development experience, with at least 3 years in a senior role.
+Great experience in developing workflows in Map Reduce or Spark on Apache Hadoop framework.
+Bachelor or Master Degree in Computer Science (or equivalent experience)
+Experience in software design & architecture and working in an agile environment.
+Strong and relevant technical background & understanding in: large-scale data modelling, data warehousing, working with data model analysis, etc.
+Good communication & team work skills; able to interact with both technical and non-technical management and team members.
+ 
+
+Desirable
+
+Experience in Java EE, (J)Cascalog, , Clojure, Scala, Apache Storm

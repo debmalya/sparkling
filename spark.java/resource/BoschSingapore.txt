@@ -1,0 +1,18 @@
+In the area of Internet of Things applications vast amount of data is generated which can provide better insight and understanding of the scenarios in case the data is properly analyzed and interpreted. Bosch Software Innovation is seeking for an expert in the field of (big) data analytics who can promote the application of these technologies within our organization and also for our customers.
+
+. Design and develop software for the Eclipse platform and CloudFoundry in the field of Big Data
+. Contribute in all phases of the development lifecycle.
+Write well designed, testable, efficient code.
+. Ensure designs are in compliance with specifications.
+. Prepare and produce releases of software components.
+. Support continuous improvement/continuous delivery environments
+Desired Skills and Experience
+. +5 years of Java Experience
+. Proven hands-on Software Development experience in Java/JavaScript
+. Object Oriented analysis and design using common design patterns.
+. Able to work in an Agile team with shared or dedicated tasks
+. Experience with test-driven development
+Able to independently contribute ideas and solutions
+Experience with Agile Methods (such as Scrum) is desirable
+Experience with the Eclipse Platform (Eclipse RCP, EMF etc) and especially on KNIME is a major plus
+Experience with the CloudFoundry PaaS platform is a plus

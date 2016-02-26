@@ -1,0 +1,80 @@
+Job description
+Implementation Engineer
+
+Professional Services Group
+
+ 
+
+Loftware is the foremost authority and market software leader in delivering innovative business solutions for meeting a company’s global labeling requirements.  Loftware’s enterprise label and print management software suites enable organizations running Oracle®, SAP®, and other major ERP, supply chain and warehouse management applications to quickly develop and deploy complex barcode label and RFID smart label tags.  Our products are certified by both SAP and Oracle and we are SAP and Oracle business partners implementing joint go-to-market plans.
+
+ 
+
+Loftware is expanding its Singapore operations and we are looking to hire an Implementation Engineer, based in our Singapore office and reporting to Loftware’s VP of Technical Services. The Implementation Engineer will work closely with Loftware's Sales Engineering Team to drive the adoption of Loftware's enterprise software solutions throughout our large customer base as well as develop new customers.
+
+ 
+
+Responsibilities:
+
+ 
+
+The Implementation Engineer is responsible for project management and implementation of the proposed solution as defined by the Sales Engineering Team. She/he will manage our customers through a proven, structured methodology where the solution will be deployed, knowledge transferred, best practices adhered to and go-live completed.
+
+ 
+
+To ensure the clients' and Company's needs are met, the Implementation Engineer will regularly liaise with other members of the Sales Engineering team and colleagues from a range of departments, such as Product Management, Engineering, Professional Services, Sales and senior management.
+
+ 
+
+Post-sale
+
+ 
+
+Initiate project management and reporting disciplines
+Instill trustworthy and resourceful relationship between clients, partners and Loftware
+Establish effective communication protocols
+Manage and report on client projects and opportunities
+“Hand-hold” throughout planning and deployment
+Understand customers’ requirements and their technical architecture
+Specify the technical approach and design
+Install and configure the solution
+Provide business consulting/advise on the installation
+Coordinate training criteria and program objectives
+Encourage post-training support
+Understands the need to comply to conform with both Loftware’s and the Customers specific set of policies and procedures for on-site engagements
+
+Qualifications/Requirements:
+
+ 
+
+Technical aptitude; the ability to understand new technologies and related environments.
+Ability to learn new technology through self-study.
+Ability to translate highly technical information for audiences with varying degrees of technical knowledge.
+Familiarity with application administration in one or more of the following environments (SAP, Oracle e-Business Suite, Seibel, J.D. Edwards, PeopleSoft, Infor, Microsoft)
+Strong knowledge of ERP, CRM, WMS or MES systems.
+Familiarity with database administration in Oracle and/or SQL Server, T-SQL, PL-SQL
+Knowledge of VB/Java/C++/JavaScript/.NET/J2EE or equivalent would be a ‘plus’
+Knowledge of information security issues and tools
+Knowledge of system and network management issues and tools
+Working knowledge of: LDAPs, Operating Systems, Databases, Networks, Webservers, Application servers
+Knowledge of Web Services, Service Oriented Architecture, Web Based UI’s
+Ability to assess client’s needs and management requirements and creatively provide solutions that address those needs, solve clients’ problems and add value to the clients’ organization.
+You will be expected to work in conjunction with Sales and Product teams in identifying, educating, and developing long-term strategic relationships with targeted clients and partners.
+Make technical presentations and demonstrate how a product will meet client needs;
+Provide training and produce support material for other members of the team
+Attributes
+
+ 
+
+The qualified candidate will possess a bachelor’s degree or equivalent along with 7-10 years in a technology environment and experience in solution development in a software or ASP environment. We require at least 5 years in the enterprise management industries, preferably in a services capacity, experience with solution development in a software environment consulting to Fortune 500 companies. You must be tenacious, intelligent and entrepreneurial in nature. Excellent written and verbal communication skills are an absolute must. Extensive travel (approximately 50%) is required.
+
+ 
+
+Able to build trust and rapport quickly and develop influential relationships at all levels of an organization.
+Competitive drive and determination
+Strong communications skills
+Customer focused
+Strong interpersonal skills
+Strong problem solving skills
+Self-starter with a strong work ethic
+Must be able to grasp technical concepts quickly
+Driven to create value in a growing organization

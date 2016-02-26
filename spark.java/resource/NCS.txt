@@ -1,0 +1,34 @@
+As an Application Architect, you will be responsible for creating the most appropriate architecture for a software development project, and maintaining control over the architecture throughout the entire project lifecycle. You will define design and programming guidelines, and establish the design of the system, taking into considerations integration of various components, identification and mitigation of known technical risk, architectural principles, technology standards and best practices.
+
+ 
+
+The broad area of your role covers the followings
+
+Define system-level application architecture that includes high-level design, architectural policies and principles, design and programming guidelines, implementation risks and mitigation measures, software development and integration strategies, software configuration controls, etc
+Maintain control over the architect throughout the entire software development lifecycle by continuously making critical adjustments to the architecture to ensure desired results are achieved
+Involve in requirement analysis phase to ensure the implementation feasibility of functional specifications. Highlight requirement gaps, disproportional construction efforts, technical challenges and any other issues to business analyst teams
+Provide technical leadership in the development through established design and development methodologies, to ensure system meets functional and system requirements
+Engage customers to explain the rationale of architecture’s selection, or other technical issues
+Ensure best practices, frameworks and re-useable components are employed in the development project
+Trouble-shoot technical problems faced by the project team
+Contribution to organizational development thru sharing best practices. Developing and conducting technical courses.
+Coach, train and mentor junior members
+Be involved in pre-sale activities as solution architect when necessary
+Desired Skills and Experience
+At least 8 years’ experience with substantial project work in software design & development
+Strong technical experience in system / applications architecture design
+Experience in designing solutions using appropriate platforms and system technologies such as enterprise database design, web and application server and network technologies
+Certified in appropriate technologies is an advantage
+Self-motivated with a positive “can-do” attitude, creative with excellent presentation, communication, negotiation and interpersonal skills including strong persuasive techniques.
+Ability to lead, develop and maintain respectful and trusting relationship;
+Proficient in written and spoken English
+About this companyFollowing company
+NCS is a leading infocommunications technology (ICT) service provider and together with SingTel, we have a presence in 22 countries located throughout APAC, Europe and the USA.
+
+NCS delivers end-to-end ICT and communications engineering solutions to help governments and enterprises realise business value through the innovative use of technology. Our unique delivery capabilities range across consulting, development, systems integration, outsourcing, infrastructure management & solutions and portal management. We also provide mobility, social networking, business analytics and cloud computing services.
+
+Headquartered in Singapore, NCS has over 8,000 staff serving governments and large global commercial enterprises. We provide solutions across a spread of industries including the public sector, defence & homeland security, education, transportation & logistics, airport & aviation, healthcare & life sciences, financial services, manufacturing, telecommunications and utilities.
+
+NCS is the No. 1 IT Professional IT Services provider in Singapore according to Gartner, and one of the top 10 in the Asia-Pacific (excluding Japan) - 2011 Gartner ranking in IT Professional Services, March 2012.
+
+Recent awards won include Land Transport Excellence Awards 2012 for Best System Delivery Partner & Most Creative Promotion Campaign (Land Transport), Singapore Superbrands Awards 2012, IT Excellence Award 2012, Best Bottom line IT for SSOE project, by Fairfax Business Media & IDC Asia Pacific.

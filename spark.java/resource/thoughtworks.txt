@@ -1,0 +1,59 @@
+We are now hiring for 2016! 
+
+ThoughtWorks is synonymous with innovation. We are dedicated to the art of perfecting software delivery by keeping it lightweight, fast-moving and open-source. Our clients are people and organisations with ambitious missions - whether in the commercial, social, or government sectors. They trust us to deliver the disruptive thinking and technology that empowers them to succeed. ThoughtWorks aspire to be a better business and strive to have a positive impact in the world. We are a diverse community of bright and passionate individuals. In our 20th year, over 2300 ThoughtWorkers are currently serving clients from offices across 11 countries. We are seeking passionate technologists who share our mission. We want hackers, philosophers, activists – courageous people with good hearts and creative approaches to problem-solving. 
+
+We are currently looking for talented people in Singapore who are equally as passionate about software. If you are someone who loves the idea of helping the technical community locally to grow then we want to talk to you! 
+
+As a Developer, here’s what you can do at ThoughtWorks: 
+
+· Learn something new everyday 
+
+· Travel the world 
+
+· Speak at conferences 
+
+· Write blogs and books 
+
+· Start new offices in places you’ve never been before 
+
+· Think through hard problems, and work with a team to make them reality 
+
+· Work in a dynamic, collaborative, transparent, non-hierarchal, and ego-free culture where your talent is valued over a role title 
+
+· Develop your career outside of the confinements of a traditional career path by focusing on what you’re passionate about rather than a predetermined one-size-fits-all plan 
+
+· Build bespoke software solutions 
+
+· Evangelise Agile, Lean, and Continuous Delivery coding best practices 
+
+· Mentor and coach your colleagues both within ThoughtWorks and on client site 
+
+Examples of some of our current and past projects: 
+
+· Mobile applications including responsive web, native Android and iOS for telcos, retailers, banks as well as local Singapore organisations 
+
+· HTML5 rich web applications using frameworks such as AngularJS and Ember 
+
+· Integrated enterprise solutions on RoR covering front end to back end 
+
+· Large scale distributed systems with big data using technologies like Storm, Hadoop 
+
+· Continuous delivery, Infrastructure as code and one-click deployment on cloud 
+
+· Functional programming languages like Scala and Clojure for heavy data processing projects 
+
+Here’s what you’ll bring: 
+
+As a general rule of thumb our languages and technical environments range across Java, Ruby, Scala, Clojure, C#, Python, iOS, Android and Javascript. We expect you to master best practices of Software Development (Design Patterns, OOP, CI, Software Architecture, etc). You should have the ability to work on large client settings in team-oriented, collaborative environment. Also, previous experience with Agile Methodologies is preferred. 
+
+We are seeking for passionate technologists who share our mission. We want hackers, philosophers, activists – courageous people with good hearts and creative approaches to problem-solving.
+About this companyFollowing company
+A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change. 
+
+We work with people and organizations who have ambitious missions - whether they are in the commercial, social or government sectors. We set up smart teams who love challenges and think disruptively to help our clients succeed. Our Agile development tools help our clients continuously improve and deliver quality software. 
+
+We are focused on helping our industry improve, and believe in sharing what we learn. We do this by writing books, blogging, running events, talking at conferences, and championing open source. 
+
+We are strong believers in the power of software and technology as tools for social change. Through our Social Impact Program, we collaborate with organizations with a humanitarian mission and broad reach, helping them use technology to make an impact. 
+
+Learn more at http://www.thoughtworks.com/

@@ -1,0 +1,36 @@
+Software Engineering
+Menlo Park
+Apply
+Please limit to 3 applications.
+
+Other positions in Developer Operations
+
+Developer Support Engineer
+(Dublin)
+Documentation Engineer
+(Menlo Park)
+Documentation Engineer
+(Seattle)
+Partner Engineer, Growth
+(Tokyo)
+Technical Writer, developers.facebook.com
+(Menlo Park)
+Technical Writer, developers.facebook.com
+(Seattle)
+Back to all jobs
+Developer Support Engineer
+(Singapore)
+Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.
+This is your chance to work with the team that interacts with Facebook’s Platform partners, marketers, and advertisers. As a Developer Support Engineer, you will be the point of contact for the day-to-day issue management for developers, focused on helping them build engaging and social applications using Facebook Platform. You'll assist our developers in enabling their success by providing creative solutions to challenging technical issues. This is a full time position based in our Singapore office.
+Responsibilities
+
+Become an expert in our products, our developers and their needs by providing effective technical consultation
+Be the point of contact for Platform developers
+Manage technical and product issues and escalations, delivering the highest level of developer satisfaction
+Help scale developer support with Sales and Partnership growth
+Work directly with developers to resolve technical issues
+Engage with the operations and engineering teams to build, drive and improve our tools and processes
+Write production code that will improve our internal tooling and our external support channels
+Build product insights from developer experience/sentiments and work with cross-functional partners to take appropriate action
+Deliver data-driven, impactful results
+Build understanding about the wide variety of software across the Platform at a deep engineering level
