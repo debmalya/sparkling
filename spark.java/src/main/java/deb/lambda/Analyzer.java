@@ -39,20 +39,41 @@ public class Analyzer {
 	 * @return list data for each column wise distinct column value, determining
 	 *         column value, count.
 	 */
-	private static void getData(String csvLocation, int parseInt) {
-		CSVReader reader = null; 
+	private static void getData(String csvLocation, int determiningColumnIndex) {
+		CSVReader reader = null;
 		try {
-			
-				reader = new CSVReader(new FileReader(csvLocation));
-				List<String[]> allRecords = reader.readAll();
-				Stream<String[]> positive = allRecords.parallelStream().filter(record -> record[243].equals("1"));
-				Stream<String[]> negative = allRecords.parallelStream().filter(record -> record[243].equals("0"));
-				Stream<String[]> neutral = allRecords.parallelStream().filter(record -> !record[243].equals("0") && !record[243].equals("1"));
-				System.out.println("Number of records :" + allRecords.size()+ " positive :" + positive.count()+ " negative : " + negative.count()+ " neutral :" + neutral.count());
+
+			reader = new CSVReader(new FileReader(csvLocation));
+			List<String[]> allRecords = reader.readAll();
+			if (allRecords != null && allRecords.size() > 0) {
+				if (determiningColumnIndex > -1
+						&& determiningColumnIndex < allRecords.get(0).length) {
+					Stream<String[]> positive = allRecords.parallelStream()
+							.filter(record -> record[determiningColumnIndex]
+									.equals("1"));
+					Stream<String[]> negative = allRecords.parallelStream()
+							.filter(record -> record[determiningColumnIndex]
+									.equals("0"));
+					Stream<String[]> neutral = allRecords.parallelStream()
+							.filter(record -> !record[determiningColumnIndex]
+									.equals("0") && !record[243].equals("1"));
+					if (determiningColumnIndex > 0) {
+						// Stream<String[]> selectedColumnValues =
+						// positive.distinct().
+					}
+					System.out
+							.println("Number of records :" + allRecords.size()
+									+ " positive :" + positive.count()
+									+ " negative : " + negative.count()
+									+ " neutral :" + neutral.count());
+				} else {
+					System.err.println("Column index must be between 0 and " + (allRecords.get(0).length - 1));
+				}
+			}
 		} catch (Throwable e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}finally {
+		} finally {
 			if (reader != null) {
 				try {
 					reader.close();
@@ -62,6 +83,6 @@ public class Analyzer {
 				}
 			}
 		}
-		
+
 	}
 }
