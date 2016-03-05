@@ -60,6 +60,7 @@ public class Analyzer {
 					if (determiningColumnIndex > 0) {
 						// Stream<String[]> selectedColumnValues =
 						// positive.distinct().
+						analyze(positive);
 					}
 					System.out
 							.println("Number of records :" + allRecords.size()
@@ -67,7 +68,7 @@ public class Analyzer {
 									+ " negative : " + negative.count()
 									+ " neutral :" + neutral.count());
 				} else {
-					System.err.println("Column index must be between 0 and " + (allRecords.get(0).length - 1));
+					System.err.println("ERROR: Column index must be between 0 and " + (allRecords.get(0).length - 1));
 				}
 			}
 		} catch (Throwable e) {
@@ -84,5 +85,13 @@ public class Analyzer {
 			}
 		}
 
+	}
+
+	/**
+	 * @param stream
+	 */
+	private static void analyze(Stream<String[]> stream) {
+//		stream.map(record->record)
+		
 	}
 }
